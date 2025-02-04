@@ -7,6 +7,7 @@ Target to achieve
 
 🖥 Complete 45 txns on Soneium
 🗓 Before February 27th, 2025
+# 2 transaction daily
 
 ✨ That's it – No claim required! Your soulbound badge will be sent directly to your wallet on February 28th, 2025.
 
