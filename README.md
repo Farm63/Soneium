@@ -5,7 +5,7 @@ Target to achieve
 
 ⬇️ How to claim your OG Badge 
 
-🖥 Complete 45 txns on Soneium ( Why 45? Because Soneium launched on 14th Jan and drop participation closes on 27th Feb - 45 days )
+🖥 Complete 45 txns on Soneium
 🗓 Before February 27th, 2025
 
 ✨ That's it – No claim required! Your soulbound badge will be sent directly to your wallet on February 28th, 2025.
