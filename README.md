@@ -17,7 +17,7 @@ Now to Complete 45 Transactions You can watch my Video as i have share each and 
 
 Check your Soneium transactions Count — https://soneium.blockscout.com/
 
- # Bridge ETH to Soneium —
+ # Bridge ETH to Soneium
 
 - Relay Bridge [ Low Cost ] — https://www.relay.link/bridge/soneium?toCurrency=0x0000000000000000000000000000000000000000
 - LayerSwap — https://layerswap.io/app?to=soneium_mainnet
