@@ -14,7 +14,7 @@ Check your Soneium transactions Count — https://soneium.blockscout.com/
 
  # Bridge ETH to Soneium —
 
-- Relay Bridge [ Low Cost ] — Click Here
+- Relay Bridge [ Low Cost ] — https://www.relay.link/bridge/soneium?toCurrency=0x0000000000000000000000000000000000000000
 - LayerSwap — https://layerswap.io/app?to=soneium_mainnet
 - Super Bridge — https://superbridge.app/soneium?utm_source=layer3&utm_medium=quest&utm_campaign=layer3
 
