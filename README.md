@@ -3,8 +3,12 @@
 
 - Complete 45 txns on Soneium
 - Before February 27th, 2025
+
 # 2 transaction daily
 
+- hold minimum $50
+- txns different ammount more than $10
+- create Volume $1000 (count deposit - withdraw)
 
 Your soulbound badge will be sent directly to your wallet on February 28th, 2025.
 
