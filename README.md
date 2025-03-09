@@ -1,19 +1,17 @@
 # Soneium
-"Soneium OG" Badge Guide 🥇
+## Get your Soneium Ecosystem Badge!
 
-- Complete 45 txns on Soneium
-- Before February 27th, 2025
+### How to claim yours❓ 
+- Engage with dApps from March 7 - March 31
+- Meet eligibility criteria set by each project
+- Claim your badge by April 15
+- Total 21 Badges we have to Collect
 
 # 2 transaction daily
 
 - hold minimum $50
 - txns different ammount more than $10
 - create Volume $1000 (count deposit - withdraw)
-
-
-Your soulbound badge will be sent directly to your wallet on February 28th, 2025.
-
-Now to Complete 45 Transactions You can watch my Video as i have share each and everything [ How to Fund your wallet , How make Transactions Etc — https://youtu.be/PTIQ_3g-qn4
 
 Check your Soneium transactions Count — https://soneium.blockscout.com/
 
